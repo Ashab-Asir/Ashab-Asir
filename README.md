@@ -1,16 +1,18 @@
-### Hi there 👋
+<h4 align="center">Hi👋, I'm Ashab Asir </h1>
 
-<!--
-**Ashab-Asir/Ashab-Asir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitcount.itsvg.in/api?id=Ashab-Asir&icon=5&color=3)
 
-Here are some ideas to get you started:
+- 📫 **ashabasir101@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashab-asir-b0165622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashab-asir-b0165622a" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.asir.5473/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.asir.5473" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashabasir101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashabasir101" height="30" width="40" /></a>
+<a href="https://leetcode.com/Md-Asir/" target="blank"><img align="center" src="https://camo.githubusercontent.com/7c89b46de0f34cfcc4d8c7217c2359d1b1af78c72151f73f4e81b7aa127ca4c6/68747470733a2f2f692e696d6775722e636f6d2f49735335786b5a2e706e67" alt="Md-Asir" height="30" width="40" /></a>
+</p>
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=Ashab-Asir&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashab-Asir&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashab-Asir&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

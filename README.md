@@ -1,58 +1,22 @@
 <h1 align="center">Hellooooooo!</h1>
 <h3 align="center">Thank you for visiting my profile and let me know if I can help you anyway 🤩</h3>
-
-- 🔭 I'm 3rd year CS Undergrad Student at [Primer University]([https://www.cefalo.com/en/](https://puc.ac.bd/))
+- 🔭 I'm 3rd year CS Undergrad Student at Primer University
 
 - 🌱 Currently Learning **DSA & MERN Stack**
 
 - 📫 Ping me @ **ashabasir101@gmail.com**
 
 - ⚡ Love **Playing Cricket,Football and teaching people**
-
-<h3 align="left">Let's get connected:</h3>
+![](https://visitcount.itsvg.in/api?id=Ashab-Asir&icon=5&color=3)
+<h4 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashab-asir-b0165622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AshabAsir" height="30" width="40" /></a>
-<a href="https://www.facebook.com/md.asir.5473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilivetocode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ashabasir101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AshabAsir" height="30" width="40" /></a>
-<a href="https://leetcode.com/Ashab-Asir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AshabAsir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashab-asir-b0165622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashab-asir-b0165622a" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.asir.5473/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.asir.5473" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashabasir101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashabasir101" height="30" width="40" /></a>
+<a href="https://leetcode.com/Ashab-Asir/" target="blank"><img align="center" src="https://camo.githubusercontent.com/7c89b46de0f34cfcc4d8c7217c2359d1b1af78c72151f73f4e81b7aa127ca4c6/68747470733a2f2f692e696d6775722e636f6d2f49735335786b5a2e706e67" alt="Md-Asir" height="30" width="40" /></a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="HTML_IMAGE_URL" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="CSS_IMAGE_URL" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="JS_IMAGE_URL" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="TAILWIND_CSS_IMAGE_URL" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="BOOTSTRAP_IMAGE_URL" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="REACT_IMAGE_URL" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="GITHUB_IMAGE_URL" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="GIT_IMAGE_URL" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="PYTHON_IMAGE_URL" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="CPP_IMAGE_URL" alt="C++" width="40" height="40"/>
-  </a>
-</p>
-
-
-<div style="display: inline-grid; justify-items: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnansabbir&show_icons=true&locale=en&layout=compact" alt="adnansabbir" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=adnansabbir&" alt="adnansabbir" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Ashab-Asir&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashab-Asir&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashab-Asir&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

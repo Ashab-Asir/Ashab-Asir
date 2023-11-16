@@ -7,8 +7,7 @@
 - 📫 Ping me @ **ashabasir101@gmail.com**
 
 - ⚡ Love **Playing Cricket,Football and teaching people**
-![]
-<br>(https://visitcount.itsvg.in/api?id=Ashab-Asir&icon=5&color=3)
+<br>
 <h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashab-asir-b0165622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashab-asir-b0165622a" height="30" width="40" /></a>

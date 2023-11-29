@@ -1,6 +1,6 @@
 <h1 align="center">Hellooooooo!</h1>
 <h3 align="center">Thank you for visiting my profile and let me know if I can help you anyway 🤩</h3>
-- 🔭 I'm 3rd year CS Undergrad Student at Primer University
+- 🔭 I'm 3rd year CS Undergrad Student at Premier University
 
 - 🌱 Currently Learning **DSA & MERN Stack**
 

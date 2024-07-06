@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashab Asi</h1>
+<h1 align="center">Hi 👋, I'm Ashab Asir</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashab-asir&label=Profile%20views&color=0e75b6&style=flat" alt="ashab-asir" /> </p>
